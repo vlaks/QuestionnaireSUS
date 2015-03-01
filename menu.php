@@ -51,18 +51,18 @@
 						<div class="collapse navbar-collapse" id="main-menu">
 							<ul class="nav navbar-nav">
 								<li class="dropdown">
-									<a id ="ajoutQuest" href="AjoutQuestionnaire.php" class="dropdown-toggle" data-toggle="dropdown">Nouveau Formulaire </a>
+									<a id ="ajoutQuest" href="/questionnaireSUS/AjoutQuestionnaire.php" class="dropdown-toggle" data-toggle="dropdown">Nouveau Formulaire </a>
 									
 								</li>
 								<li class="dropdown"><a href="#" class="dropdown-toggle" data-toggle="dropdown">Consultation résultat</a></li>
 								<li class="dropdown">
-									<a href="#" class="dropdown-toggle" data-toggle="dropdown">Invitation participant </a>
+									<a href="/questionnaireSUS/mailing.php" class="dropdown-toggle" data-toggle="dropdown">Invitation participant </a>
 									
 								</li>
-								<li class="dropdown"><a href="AjoutAdminEval.php" class="dropdown-toggle" data-toggle="dropdown">Ajouter évaluateur</a></li>
+								<li class="dropdown"><a href="/questionnaireSUS/AjoutAdminEval.php" class="dropdown-toggle" data-toggle="dropdown">Ajouter évaluateur</a></li>
 							</ul>
 							<ul class="nav navbar-nav navbar-right">
-								<li class="dropdown"><a id="deco" class="dropdown-toggle" data-toggle="dropdown">Déconnexion</a></li>
+								<li class="dropdown"><a id="deco" class="dropdown-toggle" data-toggle="dropdown">Connexion</a></li>
 							</ul>
 						</div> 
 					</div>
